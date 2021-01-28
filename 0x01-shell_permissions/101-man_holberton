@@ -1,6 +1,6 @@
 .TH man 2 "10 December 1945" "0.32" "eniac man page"
 .SH NAME
-eniac-the first electronic general purpose digital computer
+eniac - the first electronic general-purpose digital computer.
 .SH SYNOPSIS
 eniac
 .SH DESCRIPTION
@@ -12,4 +12,4 @@ ENIAC could be programmed to perform complex sequences of operations(2), includi
 .SH BUGS
 No known bugs.
 .SH AUTHOR
-University of Pennsylvania
+University of Pennsylvania.
